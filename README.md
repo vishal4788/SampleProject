@@ -1,2 +1,2 @@
 # SampleProject
-Sample Practice GIT
+Sample Practice GIT Test
